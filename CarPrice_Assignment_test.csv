@@ -1,0 +1,52 @@
+car_ID,horsepower,wheelbase,carlength,carwidth,carheight,enginesize,compressionratio,peakrpm,citympg,highwaympg,enginelocation,fueltype,drivewheel,carbody,doornumber,aspiration,enginetype,cylindernumber,price,CarName
+188.0,68.0,97.3,171.7,65.5,55.7,97.0,23.0,4500.0,37.0,42.0,front,diesel,fwd,sedan,four,turbo,ohc,four,9495.0,volkswagen super beetle
+108.0,97.0,107.9,186.7,68.4,56.7,120.0,8.4,5000.0,19.0,24.0,front,gas,rwd,sedan,four,std,l,four,11900.0,peugeot 504
+183.0,52.0,97.3,171.7,65.5,55.7,97.0,23.0,4800.0,37.0,46.0,front,diesel,fwd,sedan,two,std,ohc,four,7775.0,vokswagen rabbit
+102.0,152.0,100.4,181.7,66.5,55.1,181.0,9.0,5200.0,17.0,22.0,front,gas,fwd,sedan,four,std,ohcv,six,13499.0,nissan dayz
+25.0,68.0,93.7,157.3,63.8,50.6,90.0,9.4,5500.0,31.0,38.0,front,gas,fwd,hatchback,four,std,ohc,four,6229.0,dodge monaco (sw)
+67.0,72.0,104.9,175.0,66.1,54.4,134.0,22.0,4200.0,31.0,39.0,front,diesel,rwd,sedan,four,std,ohc,four,18344.0,mazda rx-7 gs
+37.0,76.0,96.5,157.1,63.9,58.3,92.0,9.2,6000.0,30.0,34.0,front,gas,fwd,wagon,four,std,ohc,four,7295.0,honda civic 1500 gl
+131.0,90.0,96.1,181.5,66.5,55.2,132.0,8.7,5100.0,23.0,31.0,front,gas,fwd,wagon,four,std,ohc,four,9295.0,renault 12tl
+27.0,68.0,93.7,157.3,63.8,50.6,90.0,9.4,5500.0,31.0,38.0,front,gas,fwd,sedan,four,std,ohc,four,7609.0,dodge colt (sw)
+56.0,101.0,95.3,169.0,65.7,49.6,70.0,9.4,6000.0,17.0,23.0,front,gas,rwd,hatchback,two,std,rotor,two,10945.0,mazda 626
+62.0,84.0,98.8,177.8,66.5,53.7,122.0,8.6,4800.0,26.0,32.0,front,gas,fwd,hatchback,two,std,ohc,four,10595.0,mazda glc custom
+101.0,97.0,97.2,173.4,65.2,54.7,120.0,8.5,5200.0,27.0,34.0,front,gas,fwd,sedan,four,std,ohc,four,9549.0,nissan nv200
+137.0,160.0,99.1,186.6,66.5,56.1,121.0,9.0,5500.0,19.0,26.0,front,gas,fwd,hatchback,two,turbo,dohc,four,18150.0,saab 99gle
+128.0,207.0,89.5,168.9,65.0,51.6,194.0,9.5,5900.0,17.0,25.0,rear,gas,rwd,hardtop,two,std,ohcf,six,34028.0,porsche cayenne
+180.0,161.0,102.9,183.5,67.7,52.0,171.0,9.3,5200.0,19.0,24.0,front,gas,rwd,hatchback,two,std,dohc,six,15998.0,toyota corona
+177.0,92.0,102.4,175.6,66.5,54.9,122.0,8.7,4200.0,27.0,32.0,front,gas,fwd,sedan,four,std,ohc,four,10898.0,toyota corolla
+68.0,123.0,110.0,190.9,70.3,56.5,183.0,21.5,4350.0,22.0,25.0,front,diesel,rwd,sedan,four,turbo,ohc,five,25552.0,buick electra 225 custom
+119.0,68.0,93.7,157.3,63.8,50.8,90.0,9.4,5500.0,37.0,41.0,front,gas,fwd,hatchback,two,std,ohc,four,5572.0,plymouth fury iii
+184.0,85.0,97.3,171.7,65.5,55.7,109.0,9.0,5250.0,27.0,34.0,front,gas,fwd,sedan,two,std,ohc,four,7975.0,volkswagen 1131 deluxe sedan
+197.0,114.0,104.3,188.8,67.2,56.2,141.0,9.5,5400.0,24.0,28.0,front,gas,rwd,sedan,four,std,ohc,four,15985.0,volvo 244dl
+60.0,84.0,98.8,177.8,66.5,53.7,122.0,8.6,4800.0,26.0,32.0,front,gas,fwd,hatchback,two,std,ohc,four,8845.0,mazda 626
+5.0,115.0,99.4,176.6,66.4,54.3,136.0,8.0,5500.0,18.0,22.0,front,gas,4wd,sedan,four,std,ohc,five,17450.0,audi 100ls
+84.0,145.0,95.9,173.2,66.3,50.2,156.0,7.0,5000.0,19.0,24.0,front,gas,fwd,hatchback,two,turbo,ohc,four,14869.0,mitsubishi g4
+163.0,70.0,95.7,166.3,64.4,52.8,98.0,9.0,4800.0,28.0,34.0,front,gas,fwd,sedan,four,std,ohc,four,9258.0,toyota mark ii
+38.0,86.0,96.5,167.5,65.2,53.3,110.0,9.0,5800.0,27.0,33.0,front,gas,fwd,hatchback,two,std,ohc,four,7895.0,honda accord
+189.0,100.0,97.3,171.7,65.5,55.7,109.0,10.0,5500.0,26.0,32.0,front,gas,fwd,sedan,four,std,ohc,four,9995.0,volkswagen dasher
+7.0,110.0,105.8,192.7,71.4,55.7,136.0,8.5,5500.0,19.0,25.0,front,gas,fwd,sedan,four,std,ohc,five,17710.0,audi 100ls
+100.0,97.0,97.2,173.4,65.2,54.7,120.0,8.5,5200.0,27.0,34.0,front,gas,fwd,hatchback,four,std,ohc,four,8949.0,nissan rogue
+113.0,95.0,107.9,186.7,68.4,56.7,152.0,21.0,4150.0,28.0,33.0,front,diesel,rwd,sedan,four,turbo,l,four,16900.0,peugeot 604sl
+198.0,114.0,104.3,188.8,67.2,57.5,141.0,9.5,5400.0,24.0,28.0,front,gas,rwd,wagon,four,std,ohc,four,16515.0,volvo 245
+154.0,62.0,95.7,169.7,63.6,59.1,92.0,9.0,4800.0,31.0,37.0,front,gas,fwd,wagon,four,std,ohc,four,6918.0,toyota corona hardtop
+13.0,121.0,101.2,176.8,64.8,54.3,164.0,9.0,4250.0,21.0,28.0,front,gas,rwd,sedan,two,std,ohc,six,20970.0,bmw x1
+192.0,110.0,100.4,180.2,66.9,55.1,136.0,8.5,5500.0,19.0,24.0,front,gas,fwd,sedan,four,std,ohc,five,13295.0,volkswagen rabbit
+36.0,76.0,96.5,163.4,64.0,54.5,92.0,9.2,6000.0,30.0,34.0,front,gas,fwd,sedan,four,std,ohc,four,7295.0,honda accord lx
+164.0,70.0,94.5,168.7,64.0,52.6,98.0,9.0,4800.0,29.0,34.0,front,gas,rwd,sedan,two,std,ohc,four,8058.0,toyota corolla liftback
+83.0,145.0,95.9,173.2,66.3,50.2,156.0,7.0,5000.0,19.0,24.0,front,gas,fwd,hatchback,two,turbo,ohc,four,12629.0,mitsubishi outlander
+114.0,95.0,114.2,198.9,68.4,56.7,120.0,8.4,5000.0,19.0,24.0,front,gas,rwd,wagon,four,std,l,four,16695.0,peugeot 504
+135.0,110.0,99.1,186.6,66.5,56.1,121.0,9.3,5250.0,21.0,28.0,front,gas,fwd,hatchback,two,std,ohc,four,15040.0,saab 99le
+92.0,69.0,94.5,165.3,63.8,54.5,97.0,9.4,5200.0,31.0,37.0,front,gas,fwd,sedan,two,std,ohc,four,6649.0,nissan rogue
+200.0,162.0,104.3,188.8,67.2,57.5,130.0,7.5,5100.0,17.0,22.0,front,gas,rwd,wagon,four,turbo,ohc,four,18950.0,volvo diesel
+111.0,95.0,114.2,198.9,68.4,58.7,152.0,21.0,4150.0,25.0,25.0,front,diesel,rwd,wagon,four,turbo,l,four,13860.0,peugeot 504
+96.0,69.0,94.5,165.6,63.8,53.3,97.0,9.4,5200.0,31.0,37.0,front,gas,fwd,hatchback,two,std,ohc,four,7799.0,nissan juke
+77.0,68.0,93.7,157.3,64.4,50.8,92.0,9.4,5500.0,37.0,41.0,front,gas,fwd,hatchback,two,std,ohc,four,5389.0,mitsubishi mirage
+3.0,154.0,94.5,171.2,65.5,52.4,152.0,9.0,5000.0,19.0,26.0,front,gas,rwd,hatchback,two,std,ohcv,six,16500.0,alfa-romero Quadrifoglio
+193.0,68.0,100.4,180.2,66.9,55.1,97.0,23.0,4500.0,33.0,38.0,front,diesel,fwd,sedan,four,turbo,ohc,four,13845.0,volkswagen rabbit custom
+40.0,86.0,96.5,175.4,65.2,54.1,110.0,9.0,5800.0,27.0,33.0,front,gas,fwd,sedan,four,std,ohc,four,8845.0,honda prelude
+199.0,162.0,104.3,188.8,67.2,56.2,130.0,7.5,5100.0,17.0,22.0,front,gas,rwd,sedan,four,turbo,ohc,four,18420.0,volvo 264gl
+78.0,68.0,93.7,157.3,64.4,50.8,92.0,9.4,5500.0,31.0,38.0,front,gas,fwd,hatchback,two,std,ohc,four,6189.0,mitsubishi lancer
+159.0,56.0,95.7,166.3,64.4,53.0,110.0,22.5,4500.0,34.0,36.0,front,diesel,fwd,sedan,four,std,ohc,four,7898.0,toyota corona
+134.0,110.0,99.1,186.6,66.5,56.1,121.0,9.3,5250.0,21.0,28.0,front,gas,fwd,sedan,four,std,ohc,four,12170.0,saab 99le
+71.0,123.0,115.6,202.6,71.7,56.3,183.0,21.5,4350.0,22.0,25.0,front,diesel,rwd,sedan,four,turbo,ohc,five,31600.0,buick skyhawk
